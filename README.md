@@ -1,1 +1,1 @@
-# JaTunes
+# YaTunes on JS
